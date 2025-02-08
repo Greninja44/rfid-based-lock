@@ -56,15 +56,3 @@ This project is an RFID-based access control system using an Arduino, an MFRC522
   - Buzzer produces a different tone.
   - Access is denied.
 
-## Future Enhancements
-- Store multiple UIDs for multi-user access.
-- Implement EEPROM storage for saved UIDs.
-- Use WiFi or Bluetooth for remote access control.
-- Log access attempts to an SD card or cloud database.
-
-## License
-This project is open-source and free to use. Feel free to modify and improve it as needed!
-
-## Author
-[Your Name]
-
