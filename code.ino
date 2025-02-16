@@ -7,6 +7,7 @@
 #define LED_G 4 //define green LED pin
 #define LED_R 5 //define red LED
 #define BUZZER 2 //buzzer pin
+
 MFRC522 mfrc522(SS_PIN, RST_PIN);   // Create MFRC522 instance.
 Servo myServo; //define servo name
  
